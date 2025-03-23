@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #f8f9fa;
     color: #333;
@@ -32,3 +33,39 @@ header {
     background-color: #25D366;
 }
 
+=======
+body {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+header {
+    background-color: #004aad;
+    color: white;
+}
+
+.card {
+    background: #ffffff;
+    border: 2px solid #004aad;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.btn-primary {
+    background-color: #ff7300;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #e06200;
+}
+
+.btn-success {
+    background-color: #25D366;
+}
+
+>>>>>>> 252c182ecd868bf76126eb946bc4a33ceca74648
